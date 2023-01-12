@@ -17,7 +17,7 @@ steps:
     version: '6.x'
 
 - task: Npm@1
-  displayName: 'Run npm install'
+  displayName: 'Uruchom'
   inputs:
     verbose: false
 
